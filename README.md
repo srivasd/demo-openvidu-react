@@ -1,6 +1,10 @@
 # Openvidu React Demo App
 
 <p align="center">
+    <img src="images/login.png" alt="screencast">
+</p>
+
+<p align="center">
     <img src="images/app-demo.png" alt="screencast">
 </p>
 
