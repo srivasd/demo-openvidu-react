@@ -1,4 +1,8 @@
-# Openvidu insecure React library 
+# Openvidu React Demo App
+
+<p align="center">
+    <img src="images/app-demo.png" alt="screencast">
+</p>
 
 ## Installation
 
